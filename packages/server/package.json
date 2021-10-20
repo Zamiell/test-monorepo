@@ -8,5 +8,8 @@
   "license": "ISC",
   "dependencies": {
     "common": "file:../common"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
   }
 }

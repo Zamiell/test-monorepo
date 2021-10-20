@@ -1,4 +1,4 @@
-export default interface CommonFoo {
+export interface CommonFoo {
   poop: number;
   fart: string;
 }
