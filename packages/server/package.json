@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "@test-monorepo/server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "common": "file:../common"
+    "@test-monorepo/common": "*"
   },
   "devDependencies": {
     "typescript": "^4.4.4"

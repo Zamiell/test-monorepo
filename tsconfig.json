@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./packages",
+        "paths": {
+            "@test-monorepo/common": ["common/src"],
+            "@test-monorepo/server": ["server/src"]
+        }
+    }
+}
